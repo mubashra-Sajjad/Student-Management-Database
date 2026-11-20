@@ -47,3 +47,12 @@ Mubashra Sajjad
 BS Computer Science
 
 **Project:** Student Management Database System
+
+## ER Diagram
+
+The following diagram represents the database structure and relationships between Students, Courses, and MarksHistory.
+
+
+## ER Diagram
+
+![Student Management ER Diagram](<Student Management ER Diagram.png>)
